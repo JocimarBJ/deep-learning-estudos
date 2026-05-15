@@ -1,0 +1,11 @@
+venv/
+.ipynb_checkpoints/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de dados pesados (comum em Deep Learning)
+*.zip
+*.tar.gz
+*.mp4
